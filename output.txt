@@ -1,156 +1,209 @@
-	17286: A = 200
-	17286: username = mxu
-	17286: ppid = 17285
-	17286: hostname = mx-mac
-	17287: A = 200
-	17287: time = Thu Feb  6 17:16:45 2014
-	17287: userid = 501
-	17288: A = 200
-	17288: groupid = 20
-	17288: user time = 0.000118s
-	17288: sys time = 0.000262s
-	17288: max resident set size = 233472
-	17288: shared memory = 0
-	17288: unshared data = 0
-	17288: unshared stack = 0
-	17288: page reclaims = 64
-	17288: page faults = 0
-	17288: swaps = 0
-	17288: block inputs = 0
-	17288: block outputs = 0
-	17288: messages sent = 0
-	17288: messages received = 0
-	17288: signals received = 0
-	17288: voluntary context switches = 0
-	17288: involuntary context switches = 2
-mxu       ttys001                   Thu Feb  6 17:13   still logged in
-mxu       ttys000                   Thu Feb  6 17:08   still logged in
-mxu       ttys001                   Thu Feb  6 17:05 - 17:05  (00:00)
-mxu       ttys000                   Thu Feb  6 16:34 - 17:05  (00:30)
-mxu       ttys000                   Thu Feb  6 15:32 - 16:14  (00:41)
-mxu       ttys004                   Thu Feb  6 15:12 - 15:19  (00:07)
-mxu       ttys000                   Thu Feb  6 15:01 - 15:19  (00:17)
-mxu       ttys001                   Thu Feb  6 14:00 - 17:05  (03:04)
-mxu       ttys000                   Thu Feb  6 13:58 - 14:13  (00:14)
-mxu       ttys000                   Wed Feb  5 19:40 - 20:02  (00:21)
-mxu       ttys000                   Tue Feb  4 18:21 - 20:17  (01:56)
-mxu       ttys000                   Tue Feb  4 15:58 - 16:00  (00:01)
-mxu       ttys000                   Mon Feb  3 15:10 - 10:30  (19:19)
-mxu       ttys000                   Mon Feb  3 12:42 - 13:09  (00:27)
-mxu       console                   Fri Jan 31 12:55   still logged in
-reboot    ~                         Fri Jan 31 12:53 
-shutdown  ~                         Fri Jan 31 02:00 
-mxu       console                   Sat Jan 25 13:02 - 02:00 (5+12:58)
-reboot    ~                         Fri Jan 24 18:19 
-shutdown  ~                         Fri Jan 24 17:56 
-mxu       console                   Fri Jan 24 14:02 - 17:56  (03:54)
-reboot    ~                         Fri Jan 24 14:01 
-mxu       ttys000                   Fri Jan 17 17:30 - 18:29  (00:59)
-mxu       ttys001                   Thu Jan 16 14:26 - 15:11 (1+00:45)
-mxu       ttys000                   Thu Jan 16 14:23 - 15:11 (1+00:48)
-mxu       ttys000                   Mon Jan 13 16:53 - 22:55  (06:01)
-mxu       ttys000                   Mon Jan 13 16:05 - 16:05  (00:00)
-mxu       ttys000                   Sun Jan 12 21:01 - 21:43  (00:42)
-mxu       ttys000                   Sat Jan 11 16:59 - 17:31 (1+00:31)
-mxu       ttys000                   Fri Jan 10 03:52 - 21:05  (17:12)
-mxu       ttys000                   Fri Jan 10 03:02 - 03:04  (00:02)
-mxu       ttys000                   Thu Jan  9 15:40 - 02:07  (10:27)
-mxu       ttys000                   Thu Jan  9 05:58 - 05:59  (00:01)
-mxu       ttys000                   Thu Jan  9 04:46 - 04:46  (00:00)
-mxu       ttys003                   Tue Jan  7 16:44 - 20:08  (03:23)
-mxu       ttys002                   Tue Jan  7 16:34 - 20:08  (03:34)
-mxu       ttys001                   Tue Jan  7 16:34 - 20:08  (03:34)
-mxu       ttys000                   Tue Jan  7 12:34 - 04:34 (1+15:59)
-mxu       ttys000                   Tue Jan  7 05:43 - 05:43  (00:00)
-mxu       ttys000                   Tue Jan  7 05:32 - 05:42  (00:10)
-mxu       ttys000                   Mon Jan  6 04:51 - 05:16  (00:25)
-mxu       ttys000                   Mon Jan  6 02:49 - 03:34  (00:44)
-mxu       ttys001  chriss-macbook-pro.local Mon Jan  6 02:28 - 04:45  (02:17)
-mxu       ttys000                   Mon Jan  6 02:20 - 02:40  (00:20)
-mxu       ttys001                   Sun Jan  5 20:37 - 00:28  (03:50)
-mxu       ttys000                   Sun Jan  5 20:29 - 01:18  (04:49)
-mxu       ttys003                   Fri Jan  3 03:28 - 20:22 (2+16:54)
-mxu       ttys002                   Wed Jan  1 13:58 - 10:52 (3+20:54)
-mxu       ttys001                   Mon Dec 30 13:59 - 20:22 (6+06:23)
-mxu       ttys000                   Mon Dec 30 13:38 - 10:52 (5+21:13)
-mxu       ttys001                   Mon Dec 30 11:07 - 12:16  (01:08)
-mxu       ttys000                   Mon Dec 30 10:49 - 12:15  (01:26)
-mxu       ttys001                   Sun Dec 29 17:14 - 17:16  (00:01)
-mxu       console                   Sun Dec 29 12:42 - crash (26+01:18)
-reboot    ~                         Sun Dec 29 12:41 
-shutdown  ~                         Sun Dec 29 12:40 
-mxu       ttys000                   Fri Dec 27 20:02 - 20:49  (00:47)
-mxu       ttys000                   Fri Dec 27 13:33 - 16:58  (03:24)
-mxu       ttys000                   Fri Dec 27 12:27 - 13:17  (00:50)
-mxu       ttys000                   Thu Dec 26 16:47 - 17:03  (00:16)
-mxu       ttys000                   Thu Dec 26 16:47 - 16:47  (00:00)
-mxu       ttys000                   Thu Dec 26 13:10 - 15:34  (02:23)
-mxu       ttys000                   Thu Dec 26 12:31 - 12:35  (00:03)
-mxu       ttys000                   Mon Dec 23 23:57 - 00:14  (00:17)
-mxu       ttys000                   Mon Dec 23 23:54 - 23:56  (00:02)
-mxu       ttys000                   Mon Dec 23 18:34 - 18:34  (00:00)
-mxu       ttys001                   Mon Dec 23 14:11 - 15:59  (01:47)
-mxu       ttys000                   Mon Dec 23 12:11 - 15:13  (03:02)
-mxu       ttys000                   Sun Dec 22 23:28 - 23:28  (00:00)
-mxu       ttys000                   Sun Dec 22 22:42 - 22:47  (00:04)
-mxu       ttys000                   Sun Dec 22 22:28 - 22:41  (00:12)
-mxu       ttys000                   Sun Dec 22 21:48 - 22:27  (00:38)
-mxu       ttys000                   Sun Dec 22 20:35 - 20:35  (00:00)
-mxu       ttys000                   Sun Dec 22 19:21 - 20:23  (01:01)
-mxu       ttys000                   Sun Dec 22 19:14 - 19:17  (00:03)
-mxu       ttys000                   Sun Dec 22 12:44 - 17:45  (05:00)
-mxu       ttys000                   Sun Dec 22 03:06 - 03:06  (00:00)
-mxu       ttys000                   Sun Dec 22 01:07 - 02:27  (01:19)
-mxu       ttys000                   Sat Dec 21 17:16 - 22:59  (05:42)
-mxu       ttys000                   Sat Dec 21 00:36 - 00:37  (00:00)
-mxu       console                   Sat Dec 21 00:16 - 12:40 (8+12:23)
-reboot    ~                         Sat Dec 21 00:15 
-shutdown  ~                         Sat Dec 21 00:15 
-mxu       ttys000                   Fri Dec 20 23:10 - 23:21  (00:11)
-mxu       ttys000                   Fri Dec 20 20:14 - 23:10  (02:55)
-mxu       ttys000                   Fri Dec 20 14:12 - 14:19  (00:06)
-mxu       ttys000                   Fri Dec 20 13:04 - 13:04  (00:00)
-mxu       ttys000                   Fri Dec 20 13:01 - 13:02  (00:00)
-mxu       ttys000                   Thu Dec 19 19:34 - 21:52  (02:17)
-mxu       ttys000                   Thu Dec 19 16:55 - 16:56  (00:00)
-mxu       ttys000                   Thu Dec 19 16:53 - 16:54  (00:01)
-mxu       ttys000                   Thu Dec 19 16:53 - 16:53  (00:00)
-mxu       ttys000                   Thu Dec 19 16:52 - 16:53  (00:00)
-mxu       ttys000                   Thu Dec 19 13:36 - 16:52  (03:15)
-mxu       ttys001                   Thu Dec 19 13:25 - 13:42  (00:17)
-mxu       ttys000                   Thu Dec 19 12:38 - 13:25  (00:47)
-mxu       ttys001                   Thu Dec 19 11:21 - 12:37  (01:16)
-mxu       ttys000                   Thu Dec 19 11:19 - 11:21  (00:01)
-mxu       ttys000                   Thu Dec 19 11:00 - 11:16  (00:15)
-mxu       ttys001                   Wed Dec 18 20:39 - 01:56  (05:16)
-mxu       ttys000                   Wed Dec 18 20:34 - 01:56  (05:21)
-mxu       console                   Wed Dec 18 19:47 - 00:14 (2+04:26)
-reboot    ~                         Wed Dec 18 19:45 
-shutdown  ~                         Wed Dec 18 19:44 
-root      console                   Wed Dec 18 19:41 - shutdown  (00:03)
-mxu       ttys000                   Sat Dec 14 21:23 - 21:23  (00:00)
-mxu       ttys000                   Sat Dec 14 20:41 - 20:57  (00:15)
-mxu       ttys000                   Sat Dec 14 13:37 - 13:37  (00:00)
-mxu       ttys000                   Wed Dec 11 13:35 - 13:35  (00:00)
-mxu       ttys000                   Sun Dec  8 18:38 - 18:39  (00:00)
-mxu       ttys000                   Sun Dec  8 17:13 - 18:16  (01:03)
-mxu       ttys001                   Sun Dec  8 16:36 - 05:17  (12:41)
-mxu       ttys000                   Sun Dec  8 16:36 - 16:38  (00:02)
-mxu       console                   Sun Dec  8 16:35 - 19:41 (10+03:05)
-mxu       ttys001                   Sun Dec  8 16:34 - 16:35  (00:01)
-mxu       ttys000                   Sun Dec  8 16:31 - 16:35  (00:03)
-mxu       ttys000                   Sun Dec  8 16:23 - 16:24  (00:00)
-mxu       ttys001                   Sun Dec  8 02:05 - 02:25  (00:20)
-mxu       ttys001  mimis-macbook-pro.local Sun Dec  8 00:26 - 00:26  (00:00)
-mxu       ttys001  mimis-macbook-pro.local Sun Dec  8 00:25 - 00:25  (00:00)
-root      ttys001  mimis-macbook-pro.local Sun Dec  8 00:24 - 00:25  (00:00)
-mxu       ttys002                   Sun Dec  8 00:08 - 01:30  (01:22)
-mxu       ttys001                   Sat Dec  7 23:13 - 00:08  (00:54)
-mxu       ttys000                   Sat Dec  7 21:25 - 02:25  (04:59)
-mxu       ttys000                   Sat Dec  7 18:22 - 21:19  (02:57)
-mxu       ttys000                   Sat Dec  7 18:18 - 18:19  (00:00)
-mxu       ttys000                   Sat Dec  7 18:15 - 18:18  (00:02)
-mxu       console                   Sat Dec  7 16:18 - shutdown (11+03:26)
-reboot    ~                         Sat Dec  7 16:16 
+	28297: A = 200
+	28297: username = mxx17
+	28297: ppid = 28296
+	28297: hostname = eecslinab4
+28296: 28297 exit with status 65280
 
-wtmp begins Sat Dec  7 16:16 
+	28298: A = 200
+	28298: time = Fri Feb  7 00:16:11 2014
+	28298: userid = 1585585203
+28296: 28298 exit with status 65280
+
+	28299: A = 200
+	28299: groupid = 1585585203
+	28299: user time = 0.000000s
+	28299: sys time = 0.000000s
+	28299: max resident set size = 84
+	28299: shared memory = 0
+	28299: unshared data = 0
+	28299: unshared stack = 0
+	28299: page reclaims = 52
+	28299: page faults = 0
+	28299: swaps = 0
+	28299: block inputs = 0
+	28299: block outputs = 0
+	28299: messages sent = 0
+	28299: messages received = 0
+	28299: signals received = 0
+	28299: voluntary context switches = 1
+	28299: involuntary context switches = 0
+28296: 28299 exit with status 65280
+
+28296: A = 100
+
+pab58    pts/7        cpe-71-66-118-48 Fri Feb  7 00:02   still logged in   
+meh111   pts/22       casewireless01.c Thu Feb  6 23:45   still logged in   
+tbm19    pts/21       cpe-184-56-219-2 Thu Feb  6 23:36   still logged in   
+apb66    pts/7        tmp101f740cf211. Thu Feb  6 23:34 - 23:59  (00:24)    
+mxx17    pts/20       108-95-103-41.li Thu Feb  6 23:34   still logged in   
+mxx17    pts/18       108-95-103-41.li Thu Feb  6 23:34   still logged in   
+mxz183   pts/15       casewireless01.c Thu Feb  6 23:14 - 00:00  (00:45)    
+hwe2     pts/14       casewireless01.c Thu Feb  6 23:03   still logged in   
+njb26    pts/9        v129-22-125-163. Thu Feb  6 22:57   still logged in   
+njb26    pts/9        v129-22-125-163. Thu Feb  6 22:30 - 22:56  (00:26)    
+apb66    pts/7        tmp101f740cf211. Thu Feb  6 22:16 - 23:34  (01:17)    
+tds45    pts/0        v129-22-124-224. Thu Feb  6 22:16   still logged in   
+jse34    pts/9        tmp5c260a65b3ea. Thu Feb  6 22:08 - 22:14  (00:05)    
+ark81    pts/19       casewireless01.c Thu Feb  6 21:43 - 23:58  (02:15)    
+apb66    pts/7        tmp101f740cf211. Thu Feb  6 21:38 - 22:15  (00:37)    
+apb66    pts/7        tmp101f740cf211. Thu Feb  6 21:38 - 21:38  (00:00)    
+ark81    pts/19       casewireless01.c Thu Feb  6 21:28 - 21:38  (00:09)    
+njb26    pts/18       v129-22-125-163. Thu Feb  6 21:18 - 22:29  (01:11)    
+ark81    pts/19       casewireless01.c Thu Feb  6 21:09 - 21:16  (00:07)    
+bab136   pts/14       casewireless01.c Thu Feb  6 21:01 - 23:01  (01:59)    
+las194   pts/14       lsik.student.cwr Thu Feb  6 20:46 - 20:47  (00:00)    
+scp44    pts/0        ip24-252-149-94. Thu Feb  6 20:36 - 22:11  (01:35)    
+las194   pts/24       lsik.student.cwr Thu Feb  6 20:19 - 20:20  (00:00)    
+cmd127   pts/8        tmp5c260a577afa. Thu Feb  6 20:18   still logged in   
+las194   pts/8        lsik.student.cwr Thu Feb  6 20:17 - 20:18  (00:00)    
+pab58    pts/14       cpe-71-66-118-48 Thu Feb  6 19:55 - 20:44  (00:48)    
+mxx17    pts/9        108-95-103-41.li Thu Feb  6 19:55 - 22:07  (02:12)    
+apb66    pts/7        tmp101f740cf211. Thu Feb  6 19:53 - 21:38  (01:44)    
+apb66    pts/7        tmp101f740cf211. Thu Feb  6 19:51 - 19:52  (00:00)    
+apb66    pts/7        tmp101f740cf211. Thu Feb  6 19:49 - 19:51  (00:01)    
+apb66    pts/7        tmp101f740cf211. Thu Feb  6 19:49 - 19:49  (00:00)    
+apb66    pts/14       tmp101f740cf211. Thu Feb  6 19:38 - 19:49  (00:11)    
+apb66    pts/14       tmp101f740cf211. Thu Feb  6 19:37 - 19:38  (00:00)    
+apb66    pts/14       tmp101f740cf211. Thu Feb  6 19:36 - 19:36  (00:00)    
+apb66    pts/14       tmp101f740cf211. Thu Feb  6 19:35 - 19:36  (00:00)    
+apb66    pts/14       tmp101f740cf211. Thu Feb  6 19:35 - 19:35  (00:00)    
+apb66    pts/14       tmp101f740cf211. Thu Feb  6 19:35 - 19:35  (00:00)    
+apb66    pts/14       tmp101f740cf211. Thu Feb  6 19:35 - 19:35  (00:00)    
+apb66    pts/14       tmp101f740cf211. Thu Feb  6 19:34 - 19:35  (00:00)    
+pab58    pts/9        cpe-71-66-118-48 Thu Feb  6 19:31 - 19:39  (00:07)    
+dts34    pts/25       crabdance.studen Thu Feb  6 19:25 - 21:59  (02:33)    
+dts34    pts/25       crabdance.studen Thu Feb  6 19:25 - 19:25  (00:00)    
+apb66    pts/24       tmp101f740cf211. Thu Feb  6 19:24 - 19:34  (00:09)    
+tje22    pts/23       sparky3.student. Thu Feb  6 19:24   still logged in   
+cmd127   pts/22       casewireless03.c Thu Feb  6 19:19 - 22:06  (02:46)    
+mxx17    pts/15       rrcs-24-172-147- Thu Feb  6 19:15 - 21:44  (02:29)    
+scp44    pts/0        ip24-252-149-94. Thu Feb  6 19:08 - 20:34  (01:26)    
+mxx17    pts/0        166.137.95.47    Thu Feb  6 19:00 - 19:03  (00:03)    
+dck50    pts/0        caseguest.cwru.e Thu Feb  6 18:46 - 18:46  (00:00)    
+tbm19    pts/21       cpe-184-56-219-2 Thu Feb  6 18:20 - 21:31  (03:11)    
+cmd127   pts/20       casewireless03.c Thu Feb  6 18:15 - 20:32  (02:16)    
+mxx17    pts/0        166.137.95.47    Thu Feb  6 18:13 - 18:29  (00:16)    
+jsm125   pts/19       caseguest2.cwru. Thu Feb  6 18:12 - 20:47  (02:35)    
+hps12    pts/18       173.241.226.226  Thu Feb  6 18:03 - 21:14  (03:11)    
+mxx17    pts/0        166.137.95.47    Thu Feb  6 18:02 - 18:13  (00:11)    
+mxx17    pts/0        166.137.95.47    Thu Feb  6 18:00 - 18:01  (00:00)    
+mxx17    pts/0        166.137.95.47    Thu Feb  6 17:52 - 17:58  (00:05)    
+mrf62    pts/15       casewireless08.c Thu Feb  6 17:45 - 18:22  (00:37)    
+jsm125   pts/8        caseguest3.cwru. Thu Feb  6 17:35 - 20:04  (02:29)    
+mxx17    pts/7        casewireless03.c Thu Feb  6 17:13 - 19:42  (02:29)    
+meh111   pts/0        casewireless03.c Thu Feb  6 17:10 - 17:51  (00:40)    
+mxx17    pts/15       casewireless03.c Thu Feb  6 16:35 - 17:05  (00:30)    
+hps12    pts/14       casewireless03.c Thu Feb  6 16:29 - 19:26  (02:57)    
+dts34    pts/15       casewireless03.c Thu Feb  6 16:06 - 16:06  (00:00)    
+cmd127   pts/9        casewireless06.c Thu Feb  6 15:51 - 19:26  (03:34)    
+cmd127   pts/9        casewireless06.c Thu Feb  6 15:42 - 15:50  (00:07)    
+meh111   pts/15       casewireless03.c Thu Feb  6 15:35 - 15:51  (00:15)    
+meh111   pts/15       casewireless03.c Thu Feb  6 15:29 - 15:35  (00:05)    
+meh111   pts/18       casewireless03.c Thu Feb  6 15:24 - 15:29  (00:05)    
+dts34    pts/15       o405-u13.eecs.cw Thu Feb  6 15:16 - 15:25  (00:08)    
+dts34    pts/15       o405-u13.eecs.cw Thu Feb  6 14:56 - 15:12  (00:15)    
+meh111   pts/14       casewireless01.c Thu Feb  6 14:02 - 16:22  (02:20)    
+mxx17    pts/15       108-95-103-41.li Thu Feb  6 13:59 - 14:13  (00:14)    
+meh111   pts/14       casewireless01.c Thu Feb  6 13:57 - 14:02  (00:04)    
+lne3     pts/9        lnembp.student.c Thu Feb  6 13:54 - 15:42  (01:48)    
+hwe2     pts/8        casewireless03.c Thu Feb  6 13:42 - 16:39  (02:57)    
+mxx17    pts/7        108-95-103-41.li Thu Feb  6 13:38 - 16:50  (03:11)    
+mrb113   pts/0        casewireless03.c Thu Feb  6 13:35 - 16:55  (03:19)    
+jsm125   pts/0        192.5.110.6      Thu Feb  6 12:06 - 12:13  (00:07)    
+jsm125   pts/0        caseguest2.cwru. Thu Feb  6 12:05 - 12:05  (00:00)    
+jrw152   pts/5        tmpf04da2db527f. Thu Feb  6 11:45 - 11:45  (00:00)    
+dts34    pts/0        o405-u13.eecs.cw Thu Feb  6 11:44 - 12:02  (00:18)    
+mxx17    pts/2        108-95-103-41.li Thu Feb  6 05:47 - 06:39  (00:51)    
+mxx17    pts/0        108-95-103-41.li Thu Feb  6 05:46 - 06:39  (00:52)    
+mxx17    pts/0        108-95-103-41.li Thu Feb  6 05:03 - 05:04  (00:01)    
+mxz183   pts/2        casewireless01.c Thu Feb  6 04:14 - 05:31  (01:17)    
+dts34    pts/9        129.22.62.213 vi Thu Feb  6 01:30 - 13:54  (12:23)    
+dts34    pts/9        mosh [2805]      Thu Feb  6 01:30 - 01:30  (00:00)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:30 - 01:30  (00:00)    
+dts34    pts/9        129.22.62.213 vi Thu Feb  6 01:30 - 01:30  (00:00)    
+dts34    pts/9        mosh [2143]      Thu Feb  6 01:30 - 01:30  (00:00)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:30 - 01:30  (00:00)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:29 - 01:29  (00:00)    
+dts34    pts/9        129.22.62.213 vi Thu Feb  6 01:27 - 01:30  (00:02)    
+dts34    pts/9        mosh [32178]     Thu Feb  6 01:27 - 01:27  (00:00)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:27 - 01:27  (00:00)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:26 - 01:26  (00:00)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:25 - 01:25  (00:00)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:15 - 01:25  (00:09)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:15 - 01:15  (00:00)    
+dts34    pts/2        crabdance.studen Thu Feb  6 01:15 - 01:15  (00:00)    
+mxz183   pts/0        casewireless01.c Thu Feb  6 00:50 - 04:28  (03:38)    
+jse34    pts/0        tmp5c260a65b3ea. Wed Feb  5 23:17 - 23:30  (00:13)    
+rdn21    pts/7        casewireless08.c Wed Feb  5 22:55 - 01:39  (02:43)    
+mxz183   pts/5        casewireless01.c Wed Feb  5 22:42 - 00:53  (02:11)    
+jse34    pts/0        tmp5c260a65b3ea. Wed Feb  5 22:40 - 23:14  (00:34)    
+jse34    pts/5        tmp5c260a65b3ea. Wed Feb  5 22:04 - 22:05  (00:01)    
+hwe2     pts/15       casewireless01.c Wed Feb  5 22:03 - 00:20  (02:16)    
+epv9     pts/14       173.241.226.234  Wed Feb  5 22:00 - 22:05  (00:04)    
+meh111   pts/9        casewireless01.c Wed Feb  5 21:55 - 01:23  (03:28)    
+meh111   pts/9        casewireless01.c Wed Feb  5 21:50 - 21:55  (00:05)    
+jse34    pts/5        tmp5c260a65b3ea. Wed Feb  5 21:46 - 22:04  (00:17)    
+mrb113   pts/8        casewireless01.c Wed Feb  5 21:28 - 00:39  (03:11)    
+jse34    pts/7        tmp5c260a65b3ea. Wed Feb  5 21:25 - 21:46  (00:20)    
+ark81    pts/5        caseguest.cwru.e Wed Feb  5 21:19 - 21:39  (00:19)    
+hwe2     pts/2        casewireless01.c Wed Feb  5 20:54 - 23:09  (02:15)    
+ark81    pts/5        caseguest.cwru.e Wed Feb  5 20:03 - 20:27  (00:23)    
+meh111   pts/0        casewireless01.c Wed Feb  5 19:02 - 22:40  (03:37)    
+bab136   pts/2        casewireless02.c Wed Feb  5 17:40 - 20:11  (02:31)    
+tbm19    pts/8        cpe-184-56-219-2 Wed Feb  5 17:20 - 19:12  (01:52)    
+bab136   pts/7        casewireless03.c Wed Feb  5 16:19 - 19:20  (03:00)    
+hwe2     pts/5        casewireless03.c Wed Feb  5 16:14 - 19:31  (03:16)    
+mxz183   pts/2        casewireless03.c Wed Feb  5 16:12 - 17:20  (01:07)    
+meh111   pts/1        casewireless03.c Wed Feb  5 15:18 - 18:29  (03:11)    
+dts34    pts/5        o405-u13.eecs.cw Wed Feb  5 14:31 - 15:04  (00:32)    
+pab58    pts/1        casewireless04.c Wed Feb  5 14:18 - 15:14  (00:56)    
+jse34    pts/0        casewireless03.c Wed Feb  5 14:10 - 18:10  (03:59)    
+jse34    pts/0        casewireless03.c Wed Feb  5 13:51 - 14:03  (00:11)    
+jse34    pts/2        casewireless03.c Wed Feb  5 12:14 - 14:41  (02:27)    
+smb196   pts/2        stephen-pc.stude Wed Feb  5 12:02 - 12:06  (00:03)    
+mxz183   pts/1        casewireless03.c Wed Feb  5 11:28 - 12:24  (00:55)    
+jse34    pts/0        tmp5c260a65b3ea. Wed Feb  5 11:06 - 13:39  (02:33)    
+ajn21    pts/0        caseguest3.cwru. Wed Feb  5 10:53 - 10:55  (00:01)    
+pab58    pts/0        cpe-71-66-118-48 Wed Feb  5 09:53 - 09:56  (00:03)    
+jsm125   pts/1        h149.148.31.71.d Wed Feb  5 01:46 - 01:47  (00:01)    
+jsm125   pts/0        h149.148.31.71.d Wed Feb  5 01:10 - 03:25  (02:15)    
+smb196   pts/1        stephen-pc.stude Tue Feb  4 22:21 - 23:13  (00:51)    
+dts34    pts/1        crabdance.studen Tue Feb  4 22:04 - 22:04  (00:00)    
+dts34    pts/1        crabdance.studen Tue Feb  4 22:03 - 22:03  (00:00)    
+pab58    pts/0        cpe-71-66-118-48 Tue Feb  4 21:02 - 23:00  (01:57)    
+pab58    pts/0        69.54.49.117     Tue Feb  4 19:30 - 20:02  (00:31)    
+nab75    pts/0        caseguest3.cwru. Tue Feb  4 18:46 - 18:46  (00:00)    
+mrf62    pts/0        172.56.28.221    Tue Feb  4 18:08 - 18:38  (00:30)    
+mrf62    pts/2        172.56.28.221    Tue Feb  4 18:05 - 18:07  (00:01)    
+bab136   pts/1        casewireless03.c Tue Feb  4 18:05 - 21:09  (03:04)    
+mrf62    pts/0        172.56.28.221    Tue Feb  4 18:05 - 18:07  (00:02)    
+jse34    pts/0        casewireless03.c Tue Feb  4 18:04 - 18:04  (00:00)    
+pab58    pts/0        caseguest3.cwru. Tue Feb  4 14:59 - 15:51  (00:52)    
+mrb113   pts/0        casewireless01.c Tue Feb  4 13:24 - 14:12  (00:48)    
+mrb113   pts/0        casewireless01.c Tue Feb  4 13:17 - 13:24  (00:06)    
+pab58    pts/0        caseguest2.cwru. Tue Feb  4 12:22 - 12:49  (00:26)    
+eecsadmi pts/0        chrono.eecs.cwru Tue Feb  4 10:12 - 10:13  (00:00)    
+pab58    pts/0        cpe-71-66-118-48 Mon Feb  3 19:52 - 23:36  (03:44)    
+pab58    pts/0        cpe-71-66-118-48 Mon Feb  3 17:48 - 17:49  (00:01)    
+rdn21    pts/6        casewireless03.c Mon Feb  3 16:19 - 18:42  (02:22)    
+mrb113   pts/5        caseguest3.cwru. Mon Feb  3 16:17 - 18:32  (02:14)    
+rdn21    pts/7        casewireless03.c Mon Feb  3 16:09 - 16:10  (00:01)    
+mrf62    pts/6        172.56.28.232    Mon Feb  3 16:09 - 16:18  (00:09)    
+hps12    pts/2        casewireless03.c Mon Feb  3 15:43 - 18:54  (03:11)    
+eecsadmi pts/0        chrono.eecs.cwru Mon Feb  3 14:37 - 17:21  (02:44)    
+mrb113   pts/5        caseguest3.cwru. Mon Feb  3 14:11 - 16:14  (02:02)    
+mrb113   pts/2        casewireless03.c Mon Feb  3 12:35 - 14:54  (02:19)    
+mrb113   pts/0        caseguest2.cwru. Mon Feb  3 11:33 - 14:20  (02:47)    
+mrb113   pts/0        caseguest.cwru.e Sun Feb  2 18:58 - 00:51  (05:52)    
+mrb113   pts/0        caseguest.cwru.e Sun Feb  2 18:43 - 18:49  (00:05)    
+apb66    pts/2        tmp101f740cf211. Sun Feb  2 15:29 - 15:51  (00:21)    
+tje22    pts/1        sparky3.student. Sun Feb  2 14:36 - 21:19 (1+06:43)   
+tje22    pts/1        sparky3.student. Sun Feb  2 14:25 - 14:32  (00:07)    
+ark81    pts/1        192.5.110.4      Sun Feb  2 14:11 - 14:20  (00:08)    
+tje22    pts/1        sparky3.student. Sun Feb  2 14:02 - 14:03  (00:01)    
+daj40    pts/0        caseguest3.cwru. Sun Feb  2 13:30 - 15:45  (02:15)    
+dck50    pts/0        caseguest2.cwru. Sun Feb  2 10:47 - 10:48  (00:00)    
+jjs209   pts/0        tmpe8039aadc184. Sun Feb  2 01:41 - 01:42  (00:01)    
+jse34    pts/0        tmp5c260a65b3ea. Sat Feb  1 10:39 - 10:39  (00:00)    
+
+wtmp begins Sat Feb  1 10:39:26 2014

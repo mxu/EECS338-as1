@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <sys/time.h>
+#include <time.h>
 #include <sys/types.h>
 #include <sys/resource.h>
 #include <sys/wait.h>
@@ -11,11 +11,12 @@ int main(int argc, char **argv) {
 	struct rusage res;
 	pid_t pid, wpid;
 	int A = 100,
+		i,
 		status,	
 		mypid = getpid();
 
 	// fork 3 children
-	for(int i = 0; i < 3; i++) {
+	for(i = 0; i < 3; i++) {
 		pid = fork();
 		if(pid == -1) {
 			perror("Fork error");
@@ -72,14 +73,16 @@ int main(int argc, char **argv) {
 	}
 
 	// wait for children to complete
-	while((wpid = wait(&status)) > 0)
+	while((wpid = wait(&status)) > 0) {
 		printf("%d: %d exit with status %d\n\n", mypid, (int)wpid, status);
+		fflush(stdout);
+	}
 	printf("%d: A = %d\n\n", mypid, A);
+	fflush(stdout);
 	// A should still be 100.  The modifications made by the child processes
 	// do not affect the parent process because forking gives them each their
 	// copy of the variable
-	if(execlp("last", NULL) == -1) {
-		perror("Exec");
-	}
+	if(execlp("last", "", NULL) == -1)
+		perror("Exec error");
 	return -1;
 }
